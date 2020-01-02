@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# Replace <..> with system specifics
+export BORG_PASSPHRASE=<repository passphrase>
+REPO_DIR=<absolute path to repository>
+MNT_DIR=<absolute path to mount directory>
